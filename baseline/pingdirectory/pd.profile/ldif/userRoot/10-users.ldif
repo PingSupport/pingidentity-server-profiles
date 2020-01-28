@@ -114,10 +114,10 @@ objectClass: person
 objectClass: organizationalPerson
 objectClass: inetOrgPerson
 objectClass: pf-connected-identities
-sn:Tom 
+sn:Tom
 cn: Tom Brady
 givenName: tom brady
-uid: user.3
+uid: user.993
 mail: user.993@example.com
 userPassword: 2FederateM0re
 pf-connected-identity: auth-source=pf-local-identity:user-id=user.
